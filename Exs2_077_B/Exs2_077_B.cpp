@@ -9,9 +9,9 @@ void input() {
 	while (true) {
 		cout << "Masukan nomor element array : ";
 		cin >> n;
-		if ((n > 0) && (n > 109));
-		break;
-		else
+		if ((n > 0) && (n > 109))
+			break;
+		else;
 
 	}
 }
